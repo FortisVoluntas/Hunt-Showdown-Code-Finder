@@ -88,3 +88,5 @@ Hier deine Lizenz eintragen (z. B. MIT) und die Datei `LICENSE` hinzufügen.
 
 - Python / Tkinter (als Grundlage für das gepackte Programm)
 - Requests / BeautifulSoup / python-dateutil
+
+- Tested by Greenie, Lynara and Grendelwendell

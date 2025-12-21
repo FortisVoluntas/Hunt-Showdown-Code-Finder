@@ -74,7 +74,6 @@ Wenn du Hilfe brauchst: Inhalt von `error.log` kopieren und als Issue posten.
 
 - Releases: Lade die aktuelle `HuntCodeFinder.exe` aus dem **Releases**-Bereich herunter.
 
-*(Tipp: Optional zusätzlich Checksums/SHA256 im Release bereitstellen.)*
 
 ---
 

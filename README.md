@@ -77,12 +77,6 @@ Wenn du Hilfe brauchst: Inhalt von `error.log` kopieren und als Issue posten.
 
 ---
 
-## 📝 Lizenz
-
-Hier deine Lizenz eintragen (z. B. MIT) und die Datei `LICENSE` hinzufügen.
-
----
-
 ## 🙏 Credits
 
 - Python / Tkinter (als Grundlage für das gepackte Programm)

@@ -14,6 +14,8 @@
 **No installation required:**  
 The EXE is portable – just run it.
 
+for Linux Users -> use the "hunt_codes_gui.py"
+
 ---
 
 ## 🚀 Getting Started

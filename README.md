@@ -3,6 +3,7 @@
 ![Screenshot](Screenshot%202026-04-07%20094211.png)
 
 # Description
+This is a code finder for Hunt Showdown.
 > Unofficial. No connection to Crytek or Reddit.
 
 ---
@@ -85,5 +86,5 @@ If you need help: Copy the contents of `error.log` and post it as an issue.
 - Requests / BeautifulSoup / python-dateutil
 
 - Tested by Greenie, Lynara and Grendelwendell
-# Description
-This is a code finder for Hunt Showdown.
+
+

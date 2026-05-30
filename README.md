@@ -1,6 +1,6 @@
 # Screenshot
 
-![Screenshot](Screenshot%202026-04-07%20094211.png)
+![Screenshot](Bildschirmfoto_20260530_114032.png)
 
 # Description
 This is a code finder for Hunt Showdown.
